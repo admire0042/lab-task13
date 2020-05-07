@@ -5,23 +5,67 @@ namespace DesmondLimitedTest
     {
         public string Name { get; set; }
         public string Address { get; set; }
-        public decimal P { get; set; }
-        public double R { get; set; }
-        public int T { get; set; }
+        public decimal p;
+        public double r;
+        public int t;
 
-        public Customers(string name, string address, decimal p, double r, int t)
+        public Customers(string name, string address, decimal pp, double rr, int tt)
         {
           Name = name;
           Address = address;
-          P = p;
-          R = r;
-          T = t;
+          P = pp;
+          R = rr;
+          T = tt;
         }
+
+        
+        public decimal P
+        {
+            get { return p; }
+
+            private set
+            {
+                if(value > 0.0m)
+                {
+                    p = value;
+                }
+            }
+            
+        }
+
+        public double R
+        {
+            get { return r; }
+
+            private set
+                {
+                    if(value > 0.0)
+                    {
+                        r = value;
+                    }
+                }
+            
+        }
+
+        public int T
+        {
+            get { return t; }
+
+            set
+            {
+                if(value > 0)
+                {
+                    t = value;
+                }
+            }
+            
+        }
+        
         
         public void SimpleInterest()
         {
             decimal SI = (P*(decimal)(T*R))/100;
-            Console.WriteLine($"The simple interest is: {SI}");
+            Console.WriteLine($"The simple interest is: {SI:C}");
         }
 
         public void CompoundInterest()
