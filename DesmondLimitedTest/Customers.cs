@@ -62,22 +62,22 @@ namespace DesmondLimitedTest
         }
         
         
-        public void SimpleInterest()
-        {
-            decimal SI = (P*(decimal)(T*R))/100;
-            Console.WriteLine($"The simple interest is: {SI:C}");
-        }
+        // public void SimpleInterest()
+        // {
+        //     decimal SI = (P*(decimal)(T*R))/100;
+        //     Console.WriteLine($"The simple interest is: {SI:C}");
+        // }
 
-        public void CompoundInterest()
-        {
-                decimal total = 0;
-             for(int i = 1; i <= T; i++){
-                 decimal compoundInterest = P * (decimal)(Math.Pow((1.0 + R), i));
-                 total += compoundInterest;
-             }
-            Console.WriteLine($"The compound interest is: {total:C}");
+        // public void CompoundInterest()
+        // {
+        //         decimal total = 0;
+        //      for(int i = 1; i <= T; i++){
+        //          decimal compoundInterest = P * (decimal)(Math.Pow((1.0 + R), i));
+        //          total += compoundInterest;
+        //      }
+        //     Console.WriteLine($"The compound interest is: {total:C}");
             
-        }
+        // }
        
     }
 }
