@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\bin\Debug\netcoreapp3.1\MultiCastDelegateApp.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\bin\Debug\netcoreapp3.1\MultiCastDelegateApp.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\bin\Debug\netcoreapp3.1\MultiCastDelegateApp.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\bin\Debug\netcoreapp3.1\MultiCastDelegateApp.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\bin\Debug\netcoreapp3.1\MultiCastDelegateApp.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\bin\Debug\netcoreapp3.1\MultiCastDelegateApp.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\obj\Debug\netcoreapp3.1\MultiCastDelegateApp.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\obj\Debug\netcoreapp3.1\MultiCastDelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\obj\Debug\netcoreapp3.1\MultiCastDelegateApp.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\obj\Debug\netcoreapp3.1\MultiCastDelegateApp.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\obj\Debug\netcoreapp3.1\MultiCastDelegateApp.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\obj\Debug\netcoreapp3.1\MultiCastDelegateApp.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\MultiCastDelegateApp\obj\Debug\netcoreapp3.1\MultiCastDelegateApp.genruntimeconfig.cache

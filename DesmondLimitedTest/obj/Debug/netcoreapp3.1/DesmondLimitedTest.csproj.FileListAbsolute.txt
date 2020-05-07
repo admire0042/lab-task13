@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\obj\Debug\netcoreapp3.1\DesmondLimitedTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\obj\Debug\netcoreapp3.1\DesmondLimitedTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\obj\Debug\netcoreapp3.1\DesmondLimitedTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\obj\Debug\netcoreapp3.1\DesmondLimitedTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\bin\Debug\netcoreapp3.1\DesmondLimitedTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\bin\Debug\netcoreapp3.1\DesmondLimitedTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\bin\Debug\netcoreapp3.1\DesmondLimitedTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\bin\Debug\netcoreapp3.1\DesmondLimitedTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\bin\Debug\netcoreapp3.1\DesmondLimitedTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\bin\Debug\netcoreapp3.1\DesmondLimitedTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\obj\Debug\netcoreapp3.1\DesmondLimitedTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\obj\Debug\netcoreapp3.1\DesmondLimitedTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task13\DesmondLimitedTest\obj\Debug\netcoreapp3.1\DesmondLimitedTest.genruntimeconfig.cache
